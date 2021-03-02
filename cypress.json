@@ -1,4 +1,5 @@
 {
+    "baseUrl": "https://react-redux.realworld.io",
     "modifyObstructiveCode": false,
     "experimentalSourceRewriting": false,
     "chromeWebSecurity": false
